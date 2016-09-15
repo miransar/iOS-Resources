@@ -5,8 +5,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
 # How to Use
-Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
-- Ask for help on our [Twitter](https://twitter.com/awesome_ios) or [Gitter Channel](https://gitter.im/vsouza/awesome-ios)
+An amazing listof resources for iOS Developers who need a certain feature on their app, so the best ways to use are:
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
 
